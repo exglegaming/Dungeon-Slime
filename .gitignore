@@ -1,0 +1,17 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# macOS Ignores
+.DS_Store
+
+# Linux Ignores
+*~
+
+# VS Code Ignores
+.vscode/
+
+# JetBrains Ignores
+.idea/
